@@ -1,0 +1,1 @@
+SELECT new_purchase(?, ?) AS result;

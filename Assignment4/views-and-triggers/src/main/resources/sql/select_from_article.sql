@@ -1,0 +1,2 @@
+SELECT article
+  FROM article;
